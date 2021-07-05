@@ -1,0 +1,38 @@
+header {
+    background-color: var(--main_color);
+    padding-top: 12px;
+}
+
+.logo_link {
+    text-align: center;
+    text-decoration: none;
+}
+
+.logo_text {
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.search-bar {
+    display: grid;
+    align-content: center;
+}
+
+.search-bar_field {
+    width: 100%;
+}
+
+.sign-in {
+    text-align: center;
+    margin: auto;
+}
+
+.sign-in_btn {}
+
+.menu_btn {
+    font-size: 2em;
+    color: white;
+    cursor: pointer;
+}

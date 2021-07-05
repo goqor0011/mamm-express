@@ -1,0 +1,11 @@
+:root {
+    --main_color: #212020;
+}
+
+html{
+    height: 100%;
+}
+body {
+    min-height: 100vh;
+}
+
